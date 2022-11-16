@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Hey there! Here's a signature profile with proofs related to me, Phil "Mr Whiskers" Skents
+
+Verify this profile at https://keyoxide.org/sig
+
+proof=dns:thesatelliteoflove.com?type=TXT
+proof=https://hackers.town/@MrWhiskers
+-----BEGIN PGP SIGNATURE-----
+
+iQI/BAEBCAApFiEEqdHH2+qgXFQICZjUIykZKrvlOawFAmN0h2sLHGhpQHRzb2wu
+cmUACgkQIykZKrvlOaxUEA//cbRi7pXt8JgmDn4pTntkPTT0jLRA2iK2dsmlhJH7
+DhVTAA5vS3RTVJheBz1uNHE+lNwE1gREOhGqvEmf524+zeQEBsh8c5riVzzIu+x0
+dLllvwdKFMj9A6sWqYI+o/Xdy4y5VggG8dxTzPKVBCn7UQ0OpvKDw+DHXKnl2cQK
+cw0TUL81xnZHrWU3nlhsVGmhKagScrYuYDNO0EDSmNtmO+hs9iNKfySOaDPVlxGq
+JNvd2bvyNO4sADrcsJ3/vbVz7f2wH07309NFRgT1svdnm5bJPitT9FF7QerhPx59
+zTd5AJMGNnFYZtCdIXGgvQulrKfQ/hWJurDOgmszX4NohtB1qh7JFJMahkZ07+by
++qCv+s8q1xLPMpvxJM/j610GNptxlb0YQOV5WGk5ELy79aOq8vH8MnIPdtIsse6U
+L2vRGvLhDJeLI2A6bW+XLKtpIonvKGfZtY3Wlr+eIg0IR4ZucNcrdx5Aeh9EYWiX
+TRTJteIbewwtVB75zSwGmjauwsON/49KdOd6YF8N8SGZjTCDwmCRm/T37JtuSJ7h
+eCeapyRngXon6GP9oUnXbGBU7ZsBthTvsSIFl9vPydReosz6UVqp3ok+Eg5KWCwN
+cxJZo2vwL2oKWMyGFuF0DmWsjQE67YEsri+deVYRJcG2owDFBF41BdMLubGSmTkT
++Zk=
+=wQgq
+-----END PGP SIGNATURE-----
